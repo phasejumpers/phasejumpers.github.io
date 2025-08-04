@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Phase Jumpers</title>
+    
+    
+    <description>Jumping all the way</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Triourocorp</title>
+        <description>
+          
+          This is an example page for Triourocore
+
+        </description>
+        <pubDate>Mon, 05 May 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-05-05-TRI/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-05-05-TRI/</guid>
+      </item>
+    
+      <item>
+        <title>Mci</title>
+        <description>
+          
+          placeholder
+
+        </description>
+        <pubDate>Mon, 05 May 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-05-05-MCI/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-05-05-MCI/</guid>
+      </item>
+    
+      <item>
+        <title>Lim</title>
+        <description>
+          
+          placeholder
+
+        </description>
+        <pubDate>Mon, 05 May 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-05-05-LIM/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-05-05-LIM/</guid>
+      </item>
+    
+      <item>
+        <title>Aam</title>
+        <description>
+          
+          placeholder
+
+        </description>
+        <pubDate>Mon, 05 May 2025 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2025-05-05-AAM/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-05-05-AAM/</guid>
+      </item>
+    
+  </channel>
+</rss>
