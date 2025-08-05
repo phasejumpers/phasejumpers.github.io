@@ -51,11 +51,11 @@ To get information on how to join the server, please join our discord, linked be
 
 8. So-called Gunbricks and similar creations reflect poorly on The Company, and are not permitted. If you are concerned if your creation counts as a Gunbrick, please consult your other colonists and the legal department at #Gunbrick-discussion.
 
-9. Please remember that public coms in the system are still subject to the contract, and will be treated the same if you violate those rules.
+9. Please remember that public comms in the system are still subject to the contract, and will be treated the same if you violate those rules.
 
-## Coms Nomenclature
+## Comms Nomenclature
 
-This system has two types of coms networks. The DISCORD system, and the radio coms network. The DISCORD system is used for long term, long form communication, while the radio coms are used for shorter form conversations. Think of it as the difference between emails and texting.
+This system has two types of comms networks. The DISCORD system, and the radio comms network. The DISCORD system is used for long term, long form communication, while the radio comms are used for shorter form conversations. Think of it as the difference between emails and texting.
 
 ### DISCORD System
 
@@ -69,9 +69,9 @@ DM-ENCRYP-2219: You have sent a private encrypted com to someone off the public 
 
 Keep in mind the bandwidth is shared, so you should limit use of the BROADCAST mode. If you'd like to advertise, band 88, #Faction-ads or 89, #Possible-news-articles, would be a better place to do so, as that band is opt-in.
 
-### Radio Coms
+### Radio Comms
 
-The radio coms are much faster, chattier forms of communication. They can be heard system-wide, and use the same coms network as the DISCORD system. It too operates in three modes.
+The radio comms are much faster, chattier forms of communication. They can be heard system-wide, and use the same comms network as the DISCORD system. It too operates in three modes.
 
 Public (/g): Sending messages to everyone. 
 
@@ -79,5 +79,5 @@ Faction (/f): A private band for inter-faction communication.
 
 Direct (/w): Direct radio between two players.
 
-Most of the time you'll be using public coms for general chatter.
+Most of the time you'll be using public comms for general chatter.
 
