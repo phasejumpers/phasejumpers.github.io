@@ -53,7 +53,7 @@ To get information on how to join the server, please join our discord, linked be
 
 9. Please remember that public coms in the system are still subject to the contract, and will be treated the same if you violate those rules.
 
-## Nomenclature
+## Coms Nomenclature
 
 This system has two types of coms networks. The DISCORD system, and the radio coms network. The DISCORD system is used for long term, long form communication, while the radio coms are used for shorter form conversations. Think of it as the difference between emails and texting.
 
@@ -80,3 +80,4 @@ Faction (/f): A private band for inter-faction communication.
 Direct (/w): Direct radio between two players.
 
 Most of the time you'll be using public coms for general chatter.
+
