@@ -39,15 +39,15 @@ To get information on how to join the server, please join our discord, linked be
 
 7. Certain programs are not permitted while you are working with the company. Please do not use any of the following programs:
 
-    ```
-    Whip's turret based radar systems
-    Whip's door
-    AutoLCD
-    LAMP and WAMP
-    Blarmode's Fancy Flight Info
-    Automatic LCDs 2 - By MMaster
-    Whip's Artificial Horizon
-    ```
+    {: .box-warning}
+    Whip's turret based radar systems.  
+    Whip's door.  
+    AutoLCD.  
+    LAMP and WAMP.  
+    Blarmode's Fancy Flight Info.  
+    Automatic LCDs 2 - By MMaster.  
+    Whip's Artificial Horizon.  
+    
 
 8. So-called Gunbricks and similar creations reflect poorly on The Company, and are not permitted. If you are concerned if your creation counts as a Gunbrick, please consult your other colonists and the legal department at #Gunbrick-discussion.
 

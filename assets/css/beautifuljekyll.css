@@ -920,7 +920,7 @@ pre {
 .box-success {
   padding: 0.9375rem 0.9375rem 0.9375rem 0.625rem;
   margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
-  border: 1px solid #eee;
+  border: 1px solid #000000;
   border-left-width: 0.3125rem;
   border-radius: 0.3125rem 0.1875rem 0.1875rem 0.3125rem;
 }
@@ -931,8 +931,8 @@ pre {
 }
 
 .box-warning {
-  background-color: #fdf5d4;
-  border-left-color: #f1c40f;
+  background-color: #665f4a;
+  border-left-color: #94780a;
 }
 
 .box-error {
