@@ -34,3 +34,4 @@ gem "http_parser.rb", "~> 0.8.0", :platforms => [:jruby]
 
 # Themes!
 gem "beautiful-jekyll-theme", "6.0.1"
+gem "csv", "~> 3.3"
