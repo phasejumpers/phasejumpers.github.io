@@ -2,18 +2,27 @@
 
 ## What Is This?
 
-Welcome! This website is a repository for all information related to the Phase Jumpers Space Engineers Server's story and cannon.
+Welcome! This website is a repository for all information related to the Phase Jumpers Space Engineers Server's story and canon.
 
 ## How To Write A Post
 
-These steps assume you have a github account already made.
+These steps assume you have a GitHub account already made.
 
-### Step 1: Set up your enviornment
+### Step 1: Set up your environment
 
+1. Click the **Code** button at the top of this page (the green box), and click Codespaces > Create codespace on main. Your free account comes with 120 hours per month, and you can pick the weakest machine offered to extend that. This step should automatically open a new tab with your codespace.
+   - If you already have a codespace, click on its name to open its editor. The name should be randomly generated.
+   - A prompt may pop up asking you to trust the authors of the folder, which you should do.
 
-1. Click the **Code** button at the top of this page (green box), and click Open in Codespaces. Your free account comes with 120 hours per month, and you can pick the weakest machine offered to extend that. 
-2. Change to a new branch (in the bottom left, where it says **main** currently), and name it something relevent to what you want to do.
-3. Go to **_posts** in the repository once it is open, and find the directory you want to add to.
+![Codespaces](/assets/img/readme/codespaces.png)
+
+1. Click the branch button (in the bottom left, where it says **main** currently), and select "Create new branch". When asked, name it something relevant to what you want to do, and press Enter. The branch button should now display your new branch name.
+
+![Branch](/assets/img/readme/branch_button.png)
+
+![Create](/assets/img/readme/create_branch.png)
+
+3. Go to the **_posts** folder in the repository's Explorer to the left, click to open it, and find the directory you want to add to.
    - **factions/** = for faction stories, corporations, or organizations
    - **characters/** = for character profiles (main characters, NPCs)
    - **events/** = for major historical events, battles, discoveries
@@ -55,10 +64,25 @@ Just write like you normally would. You can use:
 You can also add images and tables if you want to get fancy!
 
 ### Step 4: Save & Submit
-1. Scroll down and click "Commit changes"
-2. In the text box that appears, type a short summary like "Added new faction documentation"
-3. Click "Create pull request", and again give a short summary of what you added
-4. The webmaster review your post within 24-48 hours
+1. Click on the Source Control button (looks like a branch) to the left to open its panel, or press `Ctrl+Shift+G`
+
+![Source Control](/assets/img/readme/source_control.png)
+
+2. In the text box below "Changes", type a short summary like "Added new faction documentation" based on what you edited or added.
+3. Press "Commit". If a prompt appears to ask if you want to stage your changes and commit directly, press "Yes".
+   - You may be asked to enter a commit message here if you haven't written one already in the previous step.
+4. The button to the left underneath "Changes" should have changed to "Publish Branch". Press it, and when prompted for a branch, select the `origin` option.
+
+![Publish](/assets/img/readme/publish.png)
+
+![Origin](/assets/img/readme/origin.png)
+
+5. You will receive a pop-up that asks if you would like to create a pull request. Upon pressing it, it should redirect you to a new page where you can give a short summary of what you added once again.
+   - If the pop-up fades, you can perform the same by hovering to the right of "Changes" and clicking the second button from the left.
+
+![PR](/assets/img/readme/create_pull_request.png)
+
+6. Submit your pull request! The webmaster should review your post within 24-48 hours.
 
 ## Posting & Quality Rules
 
