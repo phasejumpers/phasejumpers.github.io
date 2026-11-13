@@ -16,7 +16,7 @@ These steps assume you have a GitHub account already made.
 
 ![Codespaces](/assets/img/readme/codespaces.png)
 
-1. Click the branch button (in the bottom left, where it says **main** currently), and select "Create new branch". When asked, name it something relevant to what you want to do, and press Enter. The branch button should now display your new branch name.
+2. Click the branch button (in the bottom left, where it says **main** currently), and select "Create new branch". When asked, name it something relevant to what you want to do, and press Enter. The branch button should now display your new branch name.
 
 ![Branch](/assets/img/readme/branch_button.png)
 
