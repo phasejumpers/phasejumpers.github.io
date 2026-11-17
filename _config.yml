@@ -23,6 +23,7 @@ navbar-links:
   Home: "index.html"
   Player Primer: "story"
   Rules: "rules"
+  FAQ: "faq"
   Page Source: https://github.com/phasejumpers/phasejumpers.github.io
 ################
 # --- Logo --- #

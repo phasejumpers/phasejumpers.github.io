@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "System Rules, Laws, and other FAQs"
+title: "System Rules and Laws"
 ---
 
 ## Join Information:
